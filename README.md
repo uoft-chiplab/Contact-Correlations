@@ -1,4 +1,6 @@
 # Fast-Modulation-Contact-Correlation-Project
+
+## About
 This repo is for all code related to fast modulation contact correlation project. 
 This project is ongoing, and code references external files in analysis/ and Data/.
 
@@ -10,3 +12,9 @@ __main_directory__/__code_directory__/Fast-Modulation-Contact-Correlation-Projec
 __main_directory__/Data
 
 The names of __main_directory__ and __code_directory__ does not matter; neither does the global location of __main_directory__. 
+
+
+## To do list:
+
+**Heating Rate Analysis**
+[] Add new zeta_drude function unitary_fermi_gas.py that hijacks the susceptibility approximation with real measurements.
