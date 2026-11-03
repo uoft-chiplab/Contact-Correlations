@@ -18,7 +18,7 @@ module_folder = os.path.join(root_analysis, "analysis")
 if module_folder not in sys.path:
 	sys.path.append(module_folder)
 
-from contact_correlations.UFG_analysis import BulkViscTrap
+from UFG_analysis import BulkViscTrap
 
 # Input parameters
 EF_est = 16000 # Hz

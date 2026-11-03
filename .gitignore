@@ -5,3 +5,5 @@
 *.venv
 *.pkl
 analysis/__pycache__/preamble.cpython-312.pyc
+contact_correlations/__pycache__/field_wiggle_calibration.cpython-38.pyc
+contact_correlations/__pycache__/field_wiggle_calibration.cpython-38.pyc
